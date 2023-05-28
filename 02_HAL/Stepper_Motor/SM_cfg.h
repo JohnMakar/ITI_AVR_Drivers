@@ -1,0 +1,18 @@
+/*
+ * SM_cfg.h
+ *
+ *  Created on: Mar 29, 2023
+ *      Author: D E L L
+ */
+
+#ifndef STEPPER_MOTOR_SM_CFG_H_
+#define STEPPER_MOTOR_SM_CFG_H_
+
+#define STEPPER_MOTTOR_PORT PORTD
+
+#define STEPPER_MOTTOR_PIN1 PIN1
+#define STEPPER_MOTTOR_PIN2 PIN2
+#define STEPPER_MOTTOR_PIN3 PIN3
+#define STEPPER_MOTTOR_PIN4 PIN4
+
+#endif /* STEPPER_MOTOR_SM_CFG_H_ */
